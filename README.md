@@ -5,3 +5,6 @@
 
 # Uninstall on UNIX systems
 - remove library with <code> sudo xargs rm < cmake-build-debug/install_manifest.txt </code>
+
+### Source
+https://medium.com/@omaralv/creating-a-shared-library-with-modern-cmake-f332a69bb478
